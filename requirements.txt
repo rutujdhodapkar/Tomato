@@ -1,0 +1,8 @@
+streamlit
+streamlit-option-menu
+numpy
+tensorflow
+fpdf
+groq
+twilio
+python-docx
